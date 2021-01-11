@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I like to eat, eat, eat*
+
+**Apples and bananas**
+
+_I like to eat, eat, eat_
+
+__Apples and bananas__
